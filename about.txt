@@ -1,0 +1,3 @@
+App name: Writer
+Developer: Mega Informática
+Version number: 5.0.0
