@@ -58,6 +58,6 @@ Within settings you can choose from several languages. For now it's only availab
 
 Here you can find help, some about information and the links for the official repo and website. Stay up to date, don't forget to read what's going on with Writer.
 
-#### Thank you! :heart:
+## Thank you! :heart:
 
 Once again, thank you for ckecking out this repository. :+1:
